@@ -15,6 +15,8 @@ A repository of useful links and resources related to open source hardware.
 * [Collaborative document creation](#collaborative-document-creation)
 * [Mentorship](#mentorship)
 
+***
+
 ## CAD/design
 - [FreeCad](https://www.freecadweb.org/)  
 - [OpenScad](https://www.openscad.org/)  
