@@ -13,6 +13,7 @@ A repository of useful links and resources related to open source hardware.
 * [Project management](#project-management)
 * [Webconference services](#webconference-services)
 * [Collaborative document creation](#collaborative-document-creation)
+* [Documentation](#documentation)
 * [Mentorship](#mentorship)
 
 ***
@@ -60,5 +61,8 @@ A repository of useful links and resources related to open source hardware.
 ## Collaborative Document Creation
 - [HackMD](https://hackmd.io/) (markdown)
 - [Fairapps](https://fairapps.net/home) (OnlyOffice aims to replace GDocs)
+
+## Documentation
+- [Awesome READMEs](https://github.com/matiassingers/awesome-readme)
 
 ## Mentorship
